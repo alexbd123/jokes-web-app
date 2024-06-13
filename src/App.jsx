@@ -5,6 +5,7 @@ function App() {
 
   return (
     <>
+      <h1 className='header'>Here are some funny jokes:</h1>
       <Joke 
       setup="I got my daughter a fridge for her birthday."
       punchline="I can't wait to see her face light up when she opens it."
